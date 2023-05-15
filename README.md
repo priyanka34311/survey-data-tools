@@ -1,3 +1,3 @@
 # survey-data-tools
 
-This repository contains wrappers I have developed to faciliate large-scale survey data cleaning. 
+This repository consists of wrappers I have developed to faciliate large-scale survey data cleaning, analysis, and visualization tasks. 
